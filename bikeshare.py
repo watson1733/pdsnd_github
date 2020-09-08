@@ -15,7 +15,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
-
+# add input for the user to choose a city
     while True:
         print ('Choose a city from chicago, new york city, or washington')
         city = input()
@@ -71,7 +71,7 @@ def load_data(city, month, day):
 
     return df
 
-
+#adding changes 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
