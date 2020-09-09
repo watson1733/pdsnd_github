@@ -1,17 +1,19 @@
-### Date created
-09/07/2020
+Bikeshare Project
+by Daniel Watson
+This is a Bikeshare Project created for Udacity's Data Analyst Degree Nanodegree Program.
 
-### Project Title
-Udacity Bikeshare project (Part of the Data Science Nano Degree)
+Description
+This project is built using Python. It analyses the data to find out some interesting statistics.
 
-### Description
-The app allows users to search information on diffrent cities
-The cities include Chicago, New York City, Washington
+bikeshare.py - The main file to run this project
+You can get the dataset for this project from this location. It contains data for three cities.
 
+chicago.csv
+new_york_city.csv
+washington.csv
+Requirements
+Python 3 is required to run this project
 
-### Files used
-Python
-
-### Credits
+python bikeshare.py
 
 
