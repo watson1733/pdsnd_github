@@ -15,7 +15,11 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
+<<<<<<< HEAD
 # add input for the user to choose a city
+=======
+# add input for the user to choose a city from the 3 choices
+>>>>>>> documentation
     while True:
         print ('Choose a city from chicago, new york city, or washington')
         city = input()
