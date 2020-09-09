@@ -165,6 +165,7 @@ def user_stats(df, city):
     else:
         print ('Info Not avaiable for this city')
 
+    # Display Birth Year
     if 'Birth Year' in df:
         most_recent_year = df['Birth Year'].max()
         print ('The Most recent User Birth Year is: ')
