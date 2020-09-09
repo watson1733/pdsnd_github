@@ -1,8 +1,11 @@
 Bikeshare Project
+
 by Daniel Watson
+
 This is a Bikeshare Project created for Udacity's Data Analyst Degree Nanodegree Program.
 
 Description
+
 This project is built using Python. It analyses the data to find out some interesting statistics.
 
 bikeshare.py - The main file to run this project
