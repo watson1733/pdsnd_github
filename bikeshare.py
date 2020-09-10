@@ -16,10 +16,14 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!')
 <<<<<<< HEAD
+<<<<<<< HEAD
 # add input for the user to choose a city
 =======
 # add input for the user to choose a city from the 3 choices
 >>>>>>> documentation
+=======
+
+>>>>>>> refactoring
     while True:
         print ('Choose a city from chicago, new york city, or washington')
         city = input()
@@ -75,7 +79,11 @@ def load_data(city, month, day):
 
     return df
 
+<<<<<<< HEAD
 #adding changes 
+=======
+
+>>>>>>> refactoring
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
@@ -169,6 +177,10 @@ def user_stats(df, city):
     else:
         print ('Info Not avaiable for this city')
 
+<<<<<<< HEAD
+=======
+    # Display Birth Year
+>>>>>>> refactoring
     if 'Birth Year' in df:
         most_recent_year = df['Birth Year'].max()
         print ('The Most recent User Birth Year is: ')
