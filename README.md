@@ -1,5 +1,6 @@
 Bikeshare Project
 
+AUTHOR
 by Daniel Watson
 
 This is a Bikeshare Project created for Udacity's Data Analyst Degree Nanodegree Program.
